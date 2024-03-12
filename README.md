@@ -29,6 +29,7 @@ The vpc-endpoints/ directory contains configurations for VPC endpoints. These en
 ## git clone https://github.com/ahmedemad44/Terraform_Project
 
 1-Modify the necessary configurations in variables.tf and the region-specific files in the regions/ directory.
+
 2-Initialize the Terraform configuration:
 ## terraform init
 1-Deploy the infrastructure:
